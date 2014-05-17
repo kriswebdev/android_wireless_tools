@@ -19,7 +19,7 @@
 #include <sys/types.h>
 #include <sys/socket.h>
 
-#include "iwlib.h"
+#include "iwlib-private.h"
 
 int main(int argc, char** argv)
 {
